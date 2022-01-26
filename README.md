@@ -34,7 +34,6 @@ Utilizei o canvas abaixo canvas para melhor organizar o projeto.
 ### Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 
 1. Imóveis que estão abaixo do preço médio de sua região e em boas condições.
-2. Imóveis que estão abaixo do preço médio por seu tamanho.
 
 ### Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 
