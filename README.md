@@ -60,8 +60,22 @@ Por meio da análise exploratória de dados, adquirimos alguns insights de negó
 
 ## Resultados Financeiros
 
+
+
 ## Conclusão
+
+
 
 ## Próximos passos
 
+Construir um modelo de precifiação com aprendizado de máquina que irá retornar o valor esperado para um imóvel a partir de suas características.
+
 ## Referências
+
+House Sales in King County, USA. Kaggle. Disponível em : <https://www.kaggle.com/harlfoxem/housesalesprediction>.
+
+Blog “Seja um DataScientist - Meigarom”. Disponível em: <https://sejaumdatascientist.com/>.
+
+FOSTER, Brittany. "10 Home Improvement Projects That Add Value to Your Property". **moneycrashers**. Disponível em: <https://www.moneycrashers.com/7-home-improvements-to-increase-its-value/>.
+
+GERHARDT, Nick. "20 Home Renovations That Instantly Increase Your Home Value". **familyhandyman**. Disponível em: <https://www.familyhandyman.com/list/home-renovations-that-instantly-add-value-to-your-home/>.
