@@ -2,6 +2,10 @@
 A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
 
 Sua principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita.
+<p align="center">
+  <img src="https://www.shopise.com/wp-content/uploads/ngg_featured/Tips-to-sell-your-property-fast-and-easy.jpg">
+</p>
+
 
 # Problema de Negócio
 O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio mas apesar da estratégia mencionada acima, as casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores e a localização e o período do ano também podem influenciar os preços.
@@ -46,7 +50,45 @@ Utilizei o canvas abaixo canvas para melhor organizar o projeto.
 - Reforma do espaço externo, o deixando mais acessível e útil. (ROI mínimo esperado de 64%)
 
 ## Insights
-Por meio da análise exploratória de dados, adquirimos alguns insights de negócios, que são os seguintes:
+Por meio da análise exploratória de dados, adquirimos alguns insights de negócios:
+
+- Poucos são os imóveis com vista para o mar, menos de 1%.
+
+
+- 80% dos imóveis a venda tem entre 3 e 4 quartos.
+
+
+- 93% dos imóveis não possuem vista ou possuem uma vista péssima.
+
+
+- Menos de 1% dos imóveis estão em condições péssimas, a grande maioria, 65% se encontra em condições razoáveis.
+
+
+- Apenas 3% dos imóveis já foram reformados.
+
+
+- Imóveis com estruturas e designs mais elaboradas são bem mais caros.
+
+
+- Imóveis próximos ao lago Washington possuem os valores mais elevados e Imóveis em Seattle são mais caros.
+
+
+- Os 5 atributos que mais influenciam o preço dos imóveis são, em ordem:
+
+
+    1. O nível de estrutura e design da casa.
+
+
+    3. O tamanho do imóvel.
+
+
+    5. A localização(Latitude).
+
+
+    7. O nível da vizinhança.
+
+
+    9. O numéro de banheiros.
 
 
 
@@ -56,11 +98,25 @@ Com a sugestão de adquirir apenas imóveis abaixo do preço médio da região e
   <img src="Imagens/.jpg">
 </p>
 
-Como visto na seção *Regras de Negócio*, nos estipulamos algumas regras para decidir quais imóveis comprar, quais reformar e por qual valor vender. Seguindo este caminho, a empresa podera faturar aproximadamente R$1,314,178,978.55
+O melhor período do ano para se realizar negociações de imóveis em King County é no 2° trimestre do ano, seguido do 3°, 1° e 4°.
 <p align="center">
   <img src="Imagens/.jpg">
 </p>
 
+Como visto na seção *Regras de Negócio*, nos estipulamos algumas regras para decidir quais imóveis comprar e por qual valor vender. Seguindo este caminho, a empresa podera faturar aproximadamente R$1,149,236,965.70
+<p align="center">
+  <img src="Imagens/.jpg">
+</p>
+
+Também estipulamos regras para reformar alguns imóveis, com este plano a empresa iria reformar cerca de 2845 casas e o retorno esperado com a valorização dos imóveis pela reforma é de aproximadamente R$272,456,178.42
+<p align="center">
+  <img src="Imagens/.jpg">
+</p>
+
+No total, o lucro esperado com este plano é de aproximadamente R$1,421,693,144.12, com um ROI de 30%.
+<p align="center">
+  <img src="Imagens/.jpg">
+</p>
 
 
 ## Conclusão
