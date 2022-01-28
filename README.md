@@ -21,7 +21,7 @@ Nós fomos contratados para analisar os dados disponíveis e ajudar o CEO da Hou
 Utilizei o canvas abaixo canvas para melhor organizar o projeto.
 
 <p align="center">
-  <img src="Imagens/.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/canvas_ds.png">
 </p>
 
 ## Ferramentas
