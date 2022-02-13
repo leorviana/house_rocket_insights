@@ -112,31 +112,31 @@ Por meio da análise exploratória de dados, adquirimos alguns insights de negó
 
 # Resultados
 
-### - Com a sugestão de adquirir apenas imóveis abaixo do preço médio da região e em bom estado de conservação, a House Rocket deixa de comprar imóveis supervalorizados e em mau estado que provavelmente não seriam vendidos facilmente, podendo até passar por uma reforma, o que aumentaria ainda mais o custo.
+#### - Com a sugestão de adquirir apenas imóveis abaixo do preço médio da região e em bom estado de conservação, a House Rocket deixa de comprar imóveis supervalorizados e em mau estado que provavelmente não seriam vendidos facilmente, podendo até passar por uma reforma, o que aumentaria ainda mais o custo.
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_1.png">
 </p>
 
 
-### - O melhor período do ano para se realizar negociações de imóveis em King County é no 2° trimestre do ano, seguido do 3°, 1° e 4°.
+#### - O melhor período do ano para se realizar negociações de imóveis em King County é no 2° trimestre do ano, seguido do 3°, 1° e 4°.
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/melhor_epoca.png">
 </p>
 
 
-### - Como visto na seção *Regras de Negócio*, nos estipulamos algumas regras para decidir quais imóveis comprar e por qual valor vender. Seguindo este caminho, a empresa podera faturar aproximadamente R$1,149,236,965.70
+#### - Como visto na seção *Regras de Negócio*, nos estipulamos algumas regras para decidir quais imóveis comprar e por qual valor vender. Seguindo este caminho, a empresa podera faturar aproximadamente R$1,149,236,965.70
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_2.png">
 </p>
 
 
-### - Também estipulamos regras para reformar alguns imóveis, com este plano a empresa iria reformar cerca de 2845 casas e o retorno esperado com a valorização dos imóveis pela reforma é de aproximadamente R$272,456,178.42
+#### - Também estipulamos regras para reformar alguns imóveis, com este plano a empresa iria reformar cerca de 2845 casas e o retorno esperado com a valorização dos imóveis pela reforma é de aproximadamente R$272,456,178.42
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_ref.png">
 </p>
 
 
-### - No total, o lucro esperado com este plano é de aproximadamente R$1,421,693,144.12, com um ROI de 30%.
+#### - No total, o lucro esperado com este plano é de aproximadamente R$1,421,693,144.12, com um ROI de 30%.
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/retorno_esperado.png">
 </p>
