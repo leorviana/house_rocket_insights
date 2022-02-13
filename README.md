@@ -31,16 +31,16 @@ Utilizei o canvas abaixo canvas para melhor organizar o projeto.
 
 # Regras de Negócio
 
-## Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
+### Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 1. Imóveis que estão abaixo do preço médio de sua região e em boas condições.
 
 
-## Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
+### Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 1. Qual trimestre do ano é o melhor para se vender um imóvel a partir do bairro que se encontra.
 2. O valor de venda deve ser o valor de compra + a diferença para a média + 15%.
 
 
-## A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
+### A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 1. Uma reforma deve ser realizada caso a condição da casa seja inferior a 3 ou o lucro esperado seja abaixo de 10%.
 2. Partimos do pressuposto que reformas podem agregar 30% ao valor do imóvel e que o gasto será de 5% sobre o preço de compra.
 3. As mudanças sugeridas de acordo com alguns artigos são:
