@@ -21,15 +21,15 @@ Nós fomos contratados para analisar os dados disponíveis e ajudar o CEO da Hou
 Utilizei o canvas abaixo canvas para melhor organizar o projeto.
 
 <p align="center">
-  <img src="Imagens/.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/canvas_ds.png">
 </p>
 
-## Ferramentas
+# Ferramentas
  - Python 3.8
  - Jupyter Notebook
  - Método CRISP-DM para gerenciamento de projeto de dados.
 
-## Regras de Negócio
+# Regras de Negócio
 
 ### Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
 1. Imóveis que estão abaixo do preço médio de sua região e em boas condições.
@@ -52,7 +52,7 @@ Utilizei o canvas abaixo canvas para melhor organizar o projeto.
 - Reforma do espaço externo, o deixando mais acessível e útil. (ROI mínimo esperado de 64%)
 
 
-## Insights
+# Insights
 Por meio da análise exploratória de dados, adquirimos alguns insights de negócios:
 
 - **Poucos são os imóveis com vista para o mar, menos de 1%.**
@@ -110,47 +110,47 @@ Por meio da análise exploratória de dados, adquirimos alguns insights de negó
 
 
 
-## Resultados
+# Resultados
 
-### - Com a sugestão de adquirir apenas imóveis abaixo do preço médio da região e em bom estado de conservação, a House Rocket deixa de comprar imóveis supervalorizados e em mau estado que provavelmente não seriam vendidos facilmente, podendo até passar por uma reforma, o que aumentaria ainda mais o custo.
+#### - Com a sugestão de adquirir apenas imóveis abaixo do preço médio da região e em bom estado de conservação, a House Rocket deixa de comprar imóveis supervalorizados e em mau estado que provavelmente não seriam vendidos facilmente, podendo até passar por uma reforma, o que aumentaria ainda mais o custo.
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_1.png">
 </p>
 
 
-### - O melhor período do ano para se realizar negociações de imóveis em King County é no 2° trimestre do ano, seguido do 3°, 1° e 4°.
+#### - O melhor período do ano para se realizar negociações de imóveis em King County é no 2° trimestre do ano, seguido do 3°, 1° e 4°.
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/melhor_epoca.png">
 </p>
 
 
-### - Como visto na seção *Regras de Negócio*, nos estipulamos algumas regras para decidir quais imóveis comprar e por qual valor vender. Seguindo este caminho, a empresa podera faturar aproximadamente R$1,149,236,965.70
+#### - Como visto na seção *Regras de Negócio*, nos estipulamos algumas regras para decidir quais imóveis comprar e por qual valor vender. Seguindo este caminho, a empresa podera faturar aproximadamente R$1,149,236,965.70
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_2.png">
 </p>
 
 
-### - Também estipulamos regras para reformar alguns imóveis, com este plano a empresa iria reformar cerca de 2845 casas e o retorno esperado com a valorização dos imóveis pela reforma é de aproximadamente R$272,456,178.42
+#### - Também estipulamos regras para reformar alguns imóveis, com este plano a empresa iria reformar cerca de 2845 casas e o retorno esperado com a valorização dos imóveis pela reforma é de aproximadamente R$272,456,178.42
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_ref.png">
 </p>
 
 
-### - No total, o lucro esperado com este plano é de aproximadamente R$1,421,693,144.12, com um ROI de 30%.
+#### - No total, o lucro esperado com este plano é de aproximadamente R$1,421,693,144.12, com um ROI de 30%.
 <p align="center">
   <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/retorno_esperado.png">
 </p>
 
 
-## Conclusão
+# Conclusão
 Ao final deste projeto foi possível chegar a um número muito bom para maximizar os lucros da 'House Rocket', o CEO agora tem em mãos quais casas devem ou não comprar, o preço de venda e se precisam ou não de reforma, sendo assim é correto afirmar que o objetivo principal deste projeto foi alcançado com sucesso.
 
 
-## Próximos passos
+# Próximos passos
 Construir um modelo de precifiação com aprendizado de máquina que irá retornar o valor esperado para um imóvel a partir de suas características, assim melhorando nossas escolhas de quais imóveis comprar, pois estamos atualmente utilizando um modelo de taxa base com a média do valor apenas.
 
 
-## Referências
+# Referências
 House Sales in King County, USA. Kaggle. Disponível em : <https://www.kaggle.com/harlfoxem/housesalesprediction>.
 
 Blog “Seja um DataScientist - Meigarom”. Disponível em: <https://sejaumdatascientist.com/>.
