@@ -41,7 +41,7 @@ Nós fomos contratados para analisar os dados disponíveis e ajudar o CEO da Hou
 # Planejamento do Projeto
 
 <p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/canvas_ds.png">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/canvas_ds.png">
 </p>
 
 # Ferramentas
@@ -52,32 +52,32 @@ Nós fomos contratados para analisar os dados disponíveis e ajudar o CEO da Hou
 # Resultados e Conclusões
 
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0001.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/0001.jpg">
 </p>
 
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0002.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/0002.jpg">
 </p>
 
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0003.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/0003.jpg">
 </p>
 
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0004.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/0004.jpg">
 </p>
 
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0005.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/0005.jpg">
 </p>
 
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0006.jpg">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/0006.jpg">
 </p>
 
 
 # Conclusão
-Ao final deste projeto foi possível chegar a um número muito bom para maximizar os lucros da 'House Rocket', o CEO agora tem em mãos quais casas devem ou não comprar, o preço de venda e se precisam ou não de reforma, sendo assim é correto afirmar que o objetivo principal deste projeto foi alcançado com sucesso.
+Ao final deste projeto foi possível chegar a um número muito bom para maximizar os lucros da 'House Rocket', o CEO agora tem em mãos quais casas deve ou não comprar, o preço de venda e se precisam ou não de reforma, sendo assim é correto afirmar que o objetivo principal deste projeto foi alcançado com sucesso.
 
 
 # Próximos passos
