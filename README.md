@@ -16,19 +16,6 @@ Nós fomos contratados para analisar os dados disponíveis e ajudar o CEO da Hou
 - Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 - A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 
-
-# Planejamento do Projeto
-Utilizei o canvas abaixo canvas para melhor organizar o projeto.
-
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/canvas_ds.png">
-</p>
-
-# Ferramentas
- - Python 3.8
- - Jupyter Notebook
- - Método CRISP-DM para gerenciamento de projeto de dados.
-
 # Regras de Negócio
 
 ### Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
@@ -47,98 +34,45 @@ Utilizei o canvas abaixo canvas para melhor organizar o projeto.
 - Concertos simples, por exemplo troca de partes velhas e desgastadas como fiação. (Depende da condição da casa, caso a casa seja bem nova, não acrescentaria muito)
 - Reformas na estrutura basica, melhorando o design interior.(ROI mínimo de 75%)
 - Transformar espaços vazios em espaços utilizaveis como escritórios, sala de jogos, entre outros. (O incremento no preço depende do quê será construído no lugar)
-- Reforma da cozinha. (Você pode recuperar de 53% a 72% na reforma da cozinha)
 - Paisagismo. (ROI esperado de 150% a 1000%)
 - Reforma do espaço externo, o deixando mais acessível e útil. (ROI mínimo esperado de 64%)
 
 
-# Insights
-Por meio da análise exploratória de dados, adquirimos alguns insights de negócios:
+# Planejamento do Projeto
 
-- **Poucos são os imóveis com vista para o mar, menos de 1%.**
+<p align="center">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/canvas_ds.png">
+</p>
+
+# Ferramentas
+ - Python 3.8
+ - Jupyter Notebook
+ - Método CRISP-DM para gerenciamento de projeto de dados.
+
+# Resultados e Conclusões
+
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/hist_waterfront.png">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0001.jpg">
 </p>
 
-
-
-- **93% dos imóveis não possuem vista ou possuem uma vista péssima.**
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/hist_view.png">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0002.jpg">
 </p>
 
-
-
-- **Menos de 1% dos imóveis estão em condições péssimas, a grande maioria, 65% se encontra em condições razoáveis.**
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/hist_condicao.png">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0003.jpg">
 </p>
 
-
-
-- **Apenas 3% dos imóveis já foram reformados.**
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/hist_ja_reformado.png">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0004.jpg">
 </p>
 
-
-
-- **Imóveis com estruturas e designs mais elaboradas são bem mais caros.**
 <p align="left">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/grade.png">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0005.jpg">
 </p>
 
-
-
-- **Imóveis próximos ao lago Washington possuem os valores mais elevados e Imóveis em Seattle são mais caros.**
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/mapa_kc.png">
-</p>
-
-
-
-- **Os 5 atributos que mais influenciam o preço dos imóveis são, em ordem:**
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/correlacao.png">
-</p>
-
-    1. O nível de estrutura e design da casa.
-    2. O tamanho do imóvel.
-    3. A localização(Latitude).
-    4. O nível da vizinhança.
-    5. O numéro de banheiros.
-
-
-
-# Resultados
-
-#### - Com a sugestão de adquirir apenas imóveis abaixo do preço médio da região e em bom estado de conservação, a House Rocket deixa de comprar imóveis supervalorizados e em mau estado que provavelmente não seriam vendidos facilmente, podendo até passar por uma reforma, o que aumentaria ainda mais o custo.
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_1.png">
-</p>
-
-
-#### - O melhor período do ano para se realizar negociações de imóveis em King County é no 2° trimestre do ano, seguido do 3°, 1° e 4°.
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/melhor_epoca.png">
-</p>
-
-
-#### - Como visto na seção *Regras de Negócio*, nos estipulamos algumas regras para decidir quais imóveis comprar e por qual valor vender. Seguindo este caminho, a empresa podera faturar aproximadamente R$1,149,236,965.70
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_2.png">
-</p>
-
-
-#### - Também estipulamos regras para reformar alguns imóveis, com este plano a empresa iria reformar cerca de 2845 casas e o retorno esperado com a valorização dos imóveis pela reforma é de aproximadamente R$272,456,178.42
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/df_ref.png">
-</p>
-
-
-#### - No total, o lucro esperado com este plano é de aproximadamente R$1,421,693,144.12, com um ROI de 30%.
-<p align="center">
-  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/images/retorno_esperado.png">
+<p align="left">
+  <img src="https://github.com/leorviana/imoveis_house_rocket/blob/main/0006.jpg">
 </p>
 
 
